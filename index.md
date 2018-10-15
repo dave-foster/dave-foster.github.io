@@ -10,13 +10,13 @@ Some examples of Dave's work:
 
 This is a multi-platform audio plugin, developed in C++ using the [JUCE](https://juce.com) framework. The github page for the plugin can be found [here](https://github.com/dave-foster/multi-channel-compressor).
 
-![Multiband-Compressor](https://dave-foster.github.io/Multiband_Compressor_GUI.png)
+![Multiband-Compressor](https://dave-foster.github.io/Multiband_Compressor_GUI.png | width = 200)
 
 ### Bass Autotune
 
 Another audio plugin, a (partially successful) implementation of Autotune specifically for bass instruments, can be found [here](https://github.com/dave-foster/bass-autotune).
 
-![Bass-Autotune](https://dave-foster.github.io/Bass_Autotune_GUI.png)
+![Bass-Autotune](https://dave-foster.github.io/Bass_Autotune_GUI.png | width = 200)
 
 ### Colour Sounds Piano
 
@@ -24,7 +24,7 @@ One of Dave's ongoing projects is teaching his kids music, and he has developed 
 
 ## Education
 
-In his spare time, Dave studied for a BSc in Mathematics and Computer Science with the Open University, obtaining a First Class degree in 2016. More recently, he has completed a MSc in Sound and Music Computing with the C4DM at Queen Mary University, where he achieved a rare distinction and had his project "Reproducing Bass Guitar Performances Using Descriptor Driven Synthesis" submitted to the prestigious AES conference. 
+In his spare time, Dave studied for a BSc in Mathematics and Computer Science with the Open University, obtaining a First Class degree in 2016. More recently, he has completed a MSc in Sound and Music Computing with the C4DM at Queen Mary University, where he achieved a rare distinction and had his project ["Reproducing Bass Guitar Performances Using Descriptor Driven Synthesis"](https://dave-foster.github.io/DF MSc Project.pdf) submitted to the prestigious AES conference. 
 
 ## Swing City Music
 
