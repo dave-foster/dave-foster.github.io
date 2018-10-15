@@ -10,21 +10,21 @@ Some examples of Dave's work:
 
 This is a multi-platform audio plugin, developed in C++ using the [JUCE](https://juce.com) framework. The github page for the plugin can be found [here](https://github.com/dave-foster/multi-channel-compressor).
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Multiband-Compressor](dave-foster.github.io/Multiband_Compressor_GUI.png)
 
 ### Bass Autotune
 
 Another audio plugin, a (partially successful) implementation of Autotune specifically for bass instruments, can be found [here](https://github.com/dave-foster/bass-autotune).
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Bass-Autotune](dave-foster.github.io/Bass_Autotune_GUI.png)
 
 ### Colour Sounds Piano
 
-One of Dave's ongoing projects is teaching his kids music, and he has developed several iOS applications with which to engage them. The video below shows 
+One of Dave's ongoing projects is teaching his kids music, and he has developed several iOS applications with which to engage them. A video showing one of the projects, an interactive piano tutor, can be found [here](https://www.dropbox.com/s/j2191d1xzxzut7d/2018-10-12%2008.05.06.mov?dl=0).
 
 ## Education
 
-In his spare time, Dave studied for a BSc in Mathematics and Computer Science with the Open University, obtaining a First Class degree in 2016. More recently, he has just completed a MSc in Sound and Music Computing with the C4DM at Queen Mary University, where he achieved a rare distinction and had his project "Reproducing Bass Guitar Performances Using Descriptor Driven Synthesis" submitted to the prestigious AES conference. 
+In his spare time, Dave studied for a BSc in Mathematics and Computer Science with the Open University, obtaining a First Class degree in 2016. More recently, he has completed a MSc in Sound and Music Computing with the C4DM at Queen Mary University, where he achieved a rare distinction and had his project "Reproducing Bass Guitar Performances Using Descriptor Driven Synthesis" submitted to the prestigious AES conference. 
 
 ## Swing City Music
 
