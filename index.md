@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Dave Foster - Audio Software Developer
 
-You can use the [editor on GitHub](https://github.com/dave-foster/dave-foster.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Dave Foster is a musician and audio software developer. He runs Swing City Music, a boutique company that has been helping artists get their music from conception to the page since 2006, as well as developing custom audio applications for in-house  automation and for other businesses. Recent training in audio development have meant that he is working at the cutting edge of audio development, and is able to incorporate the most recent research and techniques into audio solutions. His experience in both the music and software engineering fields mean that he is uniquely skilled for projects that span the two disciplines.
 
 ### Markdown
 
@@ -25,13 +23,4 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dave-foster/dave-foster.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contact Dave via his Linkedin page [here](https://www.linkedin.com/in/swingcity).
