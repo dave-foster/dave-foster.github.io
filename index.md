@@ -28,7 +28,7 @@ In his spare time, Dave studied for a BSc in Mathematics and Computer Science wi
 
 ## Swing City Music
 
-Dave has run Swing City Music, a boutique company that has been helping artists get their music from conception to the page since 2006. He works as a orchestrator and conductor for film, TV and video games. Clients include Max Richter (Hostiles, Vivaldi Recomposed), Craig Armstrong (Bridget Jones's Baby, Far From The Madding Crowd), Murray Gold (Doctor Who, Life Story), Hybrid (Light of the Fearless, Interlude in Prague), Joby Talbot (Sing, Burke & Hare), Dru Masters (Silk, Capital) and John Metcalfe (Peter Gabriel, U2, Andrea Bocelli). Other recent projects include a collaboration with Sony Playstation, working with their audio team on the music for all of their recent in-house VR games. For a full record of clients and projects, see [the IMDB page](https://www.swingcitymusic.co.uk).
+Dave has run Swing City Music, a boutique company that has been helping artists get their music from conception to the page since 2006. He works as a orchestrator and conductor for film, TV and video games. Clients include Max Richter (Hostiles, Vivaldi Recomposed), Craig Armstrong (Bridget Jones's Baby, Far From The Madding Crowd), Murray Gold (Doctor Who, Life Story), Hybrid (Light of the Fearless, Interlude in Prague), Joby Talbot (Sing, Burke & Hare), Dru Masters (Silk, Capital) and John Metcalfe (Peter Gabriel, U2, Andrea Bocelli). Other recent projects include a collaboration with Sony Playstation, working with their audio team on the music for all of their recent in-house VR games. For a full record of clients and projects, see the SCM [IMDB page](https://www.swingcitymusic.co.uk).
 
 ## Contact
 
