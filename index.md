@@ -10,13 +10,13 @@ Some examples of Dave's work:
 
 This is a multi-platform audio plugin, developed in C++ using the [JUCE](https://juce.com) framework. The github page for the plugin can be found [here](https://github.com/dave-foster/multi-channel-compressor).
 
-![Multiband-Compressor](https://dave-foster.github.io/Multiband_Compressor_GUI.png | width = 200)
+<img src="https://dave-foster.github.io/Multiband_Compressor_GUI.png" width="200">
 
 ### Bass Autotune
 
 Another audio plugin, a (partially successful) implementation of Autotune specifically for bass instruments, can be found [here](https://github.com/dave-foster/bass-autotune).
 
-![Bass-Autotune](https://dave-foster.github.io/Bass_Autotune_GUI.png | width = 200)
+<img src="https://dave-foster.github.io/Bass_Autotune_GUI.png" width="200">
 
 ### Colour Sounds Piano
 
