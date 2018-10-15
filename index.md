@@ -8,7 +8,7 @@ Some examples of Dave's work:
 
 ### Multi-band Dynamic Range Compressor
 
-This is a multi-platform audio plugin, developed in C++ using the [JUCE](https://juce.com) framework. The github page for the plugin can be found [here](https://github.com/dave-foster/multi-channel-compressor){:target="_blank"}.
+This is a multi-platform audio plugin, developed in C++ using the [JUCE](https://juce.com) framework. The github page for the plugin can be found [here](https://github.com/dave-foster/multi-channel-compressor).
 
 <p align="center">
 <img src="https://dave-foster.github.io/Multiband_Compressor_GUI.png" width="200">
