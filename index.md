@@ -1,6 +1,6 @@
 # Dave Foster - Audio Software Developer
 
-Dave Foster is a musician and audio software developer. He works as a musician in the recording industry, as well as developing custom audio applications both for in-house automation and to the specifications of other businesses. Recent training in audio development have meant that he is working at the cutting edge of audio development, and is able to incorporate the most recent research and techniques into audio solutions. His experience in both the music and software engineering fields mean that he is uniquely skilled for projects that span the two disciplines.
+Dave Foster is a musician and audio software developer. He works as a musician in the recording industry, as well as developing custom audio applications both for in-house automation and to the specifications of other businesses. Recent training in audio development and machine learning have meant that he is working at the cutting edge of audio development, and is able to incorporate the most recent research and techniques into audio solutions. His experience in both the music and software engineering fields mean that he is uniquely skilled for projects that span the two disciplines.
 
 ## Example Projects
 
@@ -28,7 +28,7 @@ One of Dave's ongoing projects is teaching his kids music, and he has developed 
 
 ## Education
 
-In his spare time, Dave studied for a BSc in Mathematics and Computer Science with the Open University, obtaining a First Class degree in 2016. More recently, he has completed a MSc in Sound and Music Computing with the C4DM at Queen Mary University, where he achieved a rare distinction and had his project ["Reproducing Bass Guitar Performances Using Descriptor Driven Synthesis"](https://dave-foster.github.io/DF MSc Project.pdf) submitted to the prestigious AES conference. 
+In his spare time, Dave studied for a BSc in Mathematics and Computer Science with the Open University, obtaining a First Class degree in 2016. More recently, he has completed a MSc in Sound and Music Computing with the C4DM at Queen Mary University, where he achieved a rare distinction and had his project ["Reproducing Bass Guitar Performances Using Descriptor Driven Synthesis"](https://dave-foster.github.io/DF MSc Project.pdf) submitted to the prestigious AES conference. Here, he was also introduced to the disciplines of machine learning and deep learning, and he worked with researchers on the cutting edge of the technologies on their implementation in audio software.
 
 ## Swing City Music
 
