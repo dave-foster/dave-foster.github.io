@@ -22,7 +22,7 @@ Another audio plugin, a (partially successful) implementation of Autotune specif
 
 ### Colour Sounds Piano
 
-One of Dave's ongoing projects is teaching his children music, and he has developed several bespoke iOS applications with which to engage them. A video showing one of the projects, an interactive piano tutor, can be found [here](https://www.dropbox.com/s/j2191d1xzxzut7d/2018-10-12%2008.05.06.mov?dl=0).
+One of Dave's ongoing projects is teaching his children music, and he has developed several bespoke iOS applications with which to engage them. A video showing one of the projects, an interactive piano tutor (developed with SpriteKit / Swift), can be found [here](https://www.dropbox.com/s/j2191d1xzxzut7d/2018-10-12%2008.05.06.mov?dl=0).
 
 ## Education
 
