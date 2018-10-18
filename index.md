@@ -34,7 +34,7 @@ One of Dave's ongoing projects is teaching his children music, and he has develo
 
 *   In his spare time, Dave studied for a BSc in Mathematics and Computer Science with the Open University, obtaining a First Class degree in 2016.
 *   More recently, he has completed a MSc in Sound and Music Computing with the C4DM at Queen Mary University, where he achieved a rare distinction.
-*   His MSc project ["Reproducing Bass Guitar Performances Using Descriptor Driven Synthesis"](https://dave-foster.github.io/DF MSc Project.pdf) submitted to the prestigious AES conference.
+*   His MSc project ["Reproducing Bass Guitar Performances Using Descriptor Driven Synthesis"](https://dave-foster.github.io/DF MSc Project.pdf) has been submitted to the prestigious AES conference for publication.
 *  At QMUL, he was also introduced to the disciplines of machine learning and deep learning, and he worked with researchers on the cutting edge of the technologies on their implementation in audio software.
   
 
