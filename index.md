@@ -1,6 +1,6 @@
 Dave Foster is a musician and audio software developer. He works as a musician in the recording industry, as well as developing custom audio applications both for in-house automation and to the specifications of other businesses. 
 
-Recent training in audio development and machine learning have meant that he is working at the cutting edge of audio development, and is able to incorporate the most recent research and techniques into audio solutions. His experience in both the music and software engineering fields mean that he is uniquely skilled for projects that span the two disciplines.
+Recent training in digital signal processing, music information retrieval and machine learning have meant that he is working at the cutting edge of audio development, and is able to incorporate the most recent research and techniques into audio solutions. His experience in both the music and software engineering fields mean that he is uniquely skilled for projects that span the two disciplines.
 
 ## Example Projects
 
